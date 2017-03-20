@@ -4,9 +4,11 @@
 
 import trainer
 print(trainer.matrix)
+print(trainer.nextmove)
 trainer.human()
 print(trainer.matrix)
 print(trainer.nextmove)
+print('ok')
 
 
 
