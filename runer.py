@@ -4,11 +4,17 @@
 
 import trainer
 print(trainer.matrix)
-print(trainer.nextmove)
-trainer.human()
+#print(trainer.savemove)
+#trainer.move_human()
+#print(trainer.matrix)
+#print(trainer.savemove)
+#print('ok')
+trainer.move_random(-1)
+print(trainer.position)
+#print(trainer.moveposition)
+#print(trainer.nextposition)
+print(trainer.savemove[trainer.savecount - 1])
 print(trainer.matrix)
-print(trainer.nextmove)
-print('ok')
 
 
 
