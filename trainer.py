@@ -29,6 +29,7 @@ def move_random(theturn):  #theturn 表示轮到谁下
     checkmove(savemove[savecount-1])
 
 def checkmove(themove):
+    #this is checkmove
 
 
 
